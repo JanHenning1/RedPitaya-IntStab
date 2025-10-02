@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.4.30)  1 OCT 2025 11:50
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.4.30)  12 SEP 2025 11:14
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -743,21 +743,15 @@ pdfTeX warning (ext4): destination with the same identifier (name{figure.6}) ha
 s been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.160 \end{tcolorbox}
-                     
+l.154 
+      
 pdfTeX warning (ext4): destination with the same identifier (name{table.1}) has
  been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.160 \end{tcolorbox}
-                      <./fig/front_panel.png>]
-Overfull \hbox (25.59154pt too wide) in paragraph at lines 163--164
-[]\T1/cmr/m/n/10 Get \T1/cmr/m/it/10 pyrpl-env.yaml \T1/cmr/m/n/10 from [][]htt
-ps://github.com/TU-Darmstadt-APQ/RedPitaya-
- []
-
-
-Overfull \hbox (22.4729pt too wide) in paragraph at lines 181--182
+l.154 
+       <./fig/front_panel.png>]
+Overfull \hbox (22.4729pt too wide) in paragraph at lines 165--166
 []\T1/cmr/m/n/10 Clone or down-load the branch 'ex-ter-nal_pid_pause' from [][]
 https://github.com/
  []
@@ -767,78 +761,70 @@ https://github.com/
 [7{c:/texlive/2025/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}]
 
 [8]
-<fig/mixer.png, id=154, 803.0pt x 504.88625pt>
+<fig/mixer.png, id=156, 803.0pt x 504.88625pt>
 File: fig/mixer.png Graphic file (type png)
 <use fig/mixer.png>
-Package pdftex.def Info: fig/mixer.png  used on input line 294.
+Package pdftex.def Info: fig/mixer.png  used on input line 278.
 (pdftex.def)             Requested size: 316.0pt x 198.69214pt.
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
 
-
-
-[9]
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 307.
-
-
-[10
+[9
 pdfTeX warning (ext4): destination with the same identifier (name{figure.7}) ha
 s been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.308 
+l.284 
        <./fig/mixer.png (PNG copy)>]
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 291.
+
+
+[10]
 <fig/sample_and_hold_P.png, id=174, 803.0pt x 504.88625pt>
 File: fig/sample_and_hold_P.png Graphic file (type png)
 <use fig/sample_and_hold_P.png>
-Package pdftex.def Info: fig/sample_and_hold_P.png  used on input line 330.
+Package pdftex.def Info: fig/sample_and_hold_P.png  used on input line 314.
 (pdftex.def)             Requested size: 316.0pt x 198.69214pt.
 <fig/sample_and_hold_I.png, id=175, 803.0pt x 504.88625pt>
 File: fig/sample_and_hold_I.png Graphic file (type png)
 <use fig/sample_and_hold_I.png>
-Package pdftex.def Info: fig/sample_and_hold_I.png  used on input line 331.
+Package pdftex.def Info: fig/sample_and_hold_I.png  used on input line 315.
 (pdftex.def)             Requested size: 316.0pt x 198.69214pt.
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
 
-
-
-[11]
-
-[12
+[11
 pdfTeX warning (ext4): destination with the same identifier (name{figure.8}) ha
 s been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.347 
+l.324 
        <./fig/sample_and_hold_P.png (PNG copy)> <./fig/sample_and_hold_I.png (P
 NG copy)>]
 
-[13]
-<fig/I_high.png, id=192, 803.0pt x 504.88625pt>
+[12]
+<fig/I_high.png, id=187, 803.0pt x 504.88625pt>
 File: fig/I_high.png Graphic file (type png)
 <use fig/I_high.png>
-Package pdftex.def Info: fig/I_high.png  used on input line 365.
+Package pdftex.def Info: fig/I_high.png  used on input line 349.
 (pdftex.def)             Requested size: 316.0pt x 198.69214pt.
-<fig/I_low.png, id=193, 803.0pt x 504.88625pt>
+<fig/I_low.png, id=188, 803.0pt x 504.88625pt>
 File: fig/I_low.png Graphic file (type png)
 <use fig/I_low.png>
-Package pdftex.def Info: fig/I_low.png  used on input line 366.
+Package pdftex.def Info: fig/I_low.png  used on input line 350.
 (pdftex.def)             Requested size: 316.0pt x 198.69214pt.
-<fig/I_opt.png, id=194, 803.0pt x 504.88625pt>
+<fig/I_opt.png, id=189, 803.0pt x 504.88625pt>
 File: fig/I_opt.png Graphic file (type png)
 <use fig/I_opt.png>
-Package pdftex.def Info: fig/I_opt.png  used on input line 367.
+Package pdftex.def Info: fig/I_opt.png  used on input line 351.
 (pdftex.def)             Requested size: 316.0pt x 198.69214pt.
 
 
-[14
+[13
 pdfTeX warning (ext4): destination with the same identifier (name{figure.9}) ha
 s been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.372 \end{document}
+l.356 \end{document}
                      <./fig/I_high.png (PNG copy)> <./fig/I_low.png (PNG copy)>
  <./fig/I_opt.png (PNG copy)>] (./RedPitaya_IntStab_manual.aux)
  ***********
@@ -850,13 +836,13 @@ d.
 (rerunfilecheck)             Checksum: AD461C0723E005F767369B6B3141F68E;2362.
  ) 
 Here is how much of TeX's memory you used:
- 25469 strings out of 469607
- 540609 string characters out of 5474758
- 862957 words of memory out of 5000000
- 51918 multiletter control sequences out of 15000+600000
+ 25467 strings out of 469607
+ 540587 string characters out of 5474758
+ 862956 words of memory out of 5000000
+ 51917 multiletter control sequences out of 15000+600000
  643020 words of font info for 69 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 116i,10n,121p,1070b,1178s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 116i,10n,121p,1070b,1117s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb><c:/tex
 live/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><c:/texlive/2025
 /texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb><c:/texlive/2025/texmf-dis
@@ -877,10 +863,10 @@ xmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb><c:/texlive/2025/texmf-dist/f
 onts/type1/public/cm-super/sfsl1000.pfb><c:/texlive/2025/texmf-dist/fonts/type1
 /public/cm-super/sfti1000.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/cm
 -super/sftt1000.pfb>
-Output written on RedPitaya_IntStab_manual.pdf (14 pages, 6508754 bytes).
+Output written on RedPitaya_IntStab_manual.pdf (13 pages, 6506525 bytes).
 PDF statistics:
- 308 PDF objects out of 1000 (max. 8388607)
- 227 compressed objects within 3 object streams
- 38 named destinations out of 1000 (max. 500000)
+ 304 PDF objects out of 1000 (max. 8388607)
+ 224 compressed objects within 3 object streams
+ 37 named destinations out of 1000 (max. 500000)
  166 words of extra memory for PDF output out of 10000 (max. 10000000)
 

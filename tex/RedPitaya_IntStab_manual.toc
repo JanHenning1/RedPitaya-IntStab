@@ -5,7 +5,7 @@
 \contentsline {section}{\numberline {3}Connecting the RedPitaya IntStab to the experiment}{8}{section.3}%
 \contentsline {subsection}{\numberline {3.1}Description of input and output functionalities}{8}{subsection.3.1}%
 \contentsline {subsection}{\numberline {3.2}Hardware application notes }{9}{subsection.3.2}%
-\contentsline {section}{\numberline {4}Intensity stabilization with PyRPL}{11}{section.4}%
-\contentsline {subsection}{\numberline {4.1}PyRPL configuration}{11}{subsection.4.1}%
+\contentsline {section}{\numberline {4}Intensity stabilization with PyRPL}{10}{section.4}%
+\contentsline {subsection}{\numberline {4.1}PyRPL configuration}{10}{subsection.4.1}%
 \contentsline {subsection}{\numberline {4.2}PyRPL settings}{11}{subsection.4.2}%
-\contentsline {subsection}{\numberline {4.3}Set the PI parameters}{12}{subsection.4.3}%
+\contentsline {subsection}{\numberline {4.3}Set the PI parameters}{11}{subsection.4.3}%
